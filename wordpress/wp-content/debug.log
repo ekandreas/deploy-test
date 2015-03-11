@@ -1,0 +1,1 @@
+[18-Feb-2015 21:04:44 UTC] PHP Warning:  stream_socket_client(): unable to connect to tcp://wocker.dev:80 (Connection refused) in /var/www/wordpress/wp-includes/class-http.php on line 1006

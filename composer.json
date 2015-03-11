@@ -1,0 +1,13 @@
+{
+  "name": "EkAndreas/deployer-test",
+  "type": "project",
+  "license": "MIT",
+  "description": "deployment test",
+  "repositories": [
+  ],
+  "require": {
+    "php": ">=5.4",
+    "deployer/deployer":"dev-master"
+  },
+  "minimum-stability":"dev"
+}
